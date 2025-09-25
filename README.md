@@ -99,6 +99,3 @@ Bengaluru AQI Category Distribution (Mar–May 2025).
 Illness vs AQI Correlation (last 3 years).
 
 EV Adoption vs AQI across states.
-Evaluate links between AQI and reported illnesses.
-
-Provide recommendations for air purifier design & market strategy.
