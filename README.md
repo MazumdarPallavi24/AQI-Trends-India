@@ -1,5 +1,6 @@
 # AQI-Trends-India
 Data analysis project exploring AQI trends, health impacts, and EV adoption in India using Microsoft Excel, Power Pivot, and Data Modelling.
+
 🌍 Conducting Market Fit Research for Air Purifier Development Using AQI Analytics
 
 📌 Domain: Consumer Appliances
@@ -8,38 +9,39 @@ Data analysis project exploring AQI trends, health impacts, and EV adoption in I
 
 📌 Company Context: AirPure Innovations
 
-Problem Statement
+📝 Problem Statement:
 
 AirPure Innovations is a startup addressing the air quality crisis in India, where 14 of the world’s top 20 most polluted cities are located. Before committing to production and R&D of their air purifier product, the company needed to assess:
 
-Which pollutants should be targeted?
+📌 Which pollutants should be targeted?
 
-What features are most essential for an effective air purifier?
+📌 What features are most essential for an effective air purifier?
 
-Which cities have the highest demand potential, and what is the market size?
+📌 Which cities have the highest demand potential, and what is the market size?
 
-How can R&D align with localized pollution patterns?
-Project Objectives
+📌 How can R&D align with localized pollution patterns?
+ 
+ 🎯 Project Objectives achieved:
 
-Conduct AQI analysis (2022–2025) across Indian cities.
+📌 Conducted AQI analysis (2022–2025) across Indian cities.
 
-Identify top pollutants, worst-affected cities, and health impacts.
+📌 Identified top pollutants, worst-affected cities, and health impacts.
 
-Compare AQI trends between weekdays vs weekends and metro vs Tier-2 cities.
+📌 Compared AQI trends between weekdays vs weekends and metro vs Tier-2 cities.
 
-Data Sources
+📊 Data Sources:
 
-AQI Data (2022–2025)
+📌 AQI Data (2022–2025)
 
-Health Data (2022–2025)
+📌 Health Data (2022–2025)
 
-Population Data (2024 estimates)
+📌 Population Data (2024 estimates)
 
-Vehicle & EV Adoption Data (2022–2025)
+📌 Vehicle & EV Adoption Data (2022–2025)
 
-Supporting Documents from Dataful
+📌 Supporting Documents from Dataful
 
-Tools Used
+🛠 Tools Used
 
 Excel (Power Query & Power Pivot)
 
@@ -57,7 +59,7 @@ Excel Dashboarding
 
 Designed a management-ready dashboard answering the primary analysis questions.
 
-Key Analyses & Insights
+📌 Key Analyses & Insights
 1️⃣ Severity Mapping
 
 Identified Top 5 and Bottom 5 polluted areas (Dec 2024 – May 2025).
