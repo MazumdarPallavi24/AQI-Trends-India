@@ -105,3 +105,30 @@ Bengaluru AQI Category Distribution (Mar–May 2025).
 Illness vs AQI Correlation (last 3 years).
 
 EV Adoption vs AQI across states.
+💡 Recommendations
+
+Pollutants to Target:
+
+Prioritize PM2.5, PM10, NO2, Ozone in purifier design.
+
+Essential Features:
+
+Multi-stage filtration (HEPA + Carbon + Pre-filter).
+
+Smart AQI display & alerts.
+
+Compact size for urban households.
+
+Low maintenance & energy efficiency.
+
+Priority Cities for Launch:
+
+Delhi NCR, Bengaluru, Hyderabad, Kolkata, Pune.
+
+Emerging Tier-2 demand → Lucknow, Patna, Kanpur.
+
+Strategic Differentiation:
+
+Health-driven marketing (e.g., hospital tie-ups, awareness campaigns).
+
+Premium line for metros + budget-friendly models for Tier-2 markets.
