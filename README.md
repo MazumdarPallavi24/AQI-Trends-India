@@ -1,9 +1,13 @@
 # AQI-Trends-India
 Data analysis project exploring AQI trends, health impacts, and EV adoption in India using Microsoft Excel, Power Pivot, and Data Modelling.
 🌍 Conducting Market Fit Research for Air Purifier Development Using AQI Analytics
+
 📌 Domain: Consumer Appliances
+
 📌 Function: Market Research & Analytics
+
 📌 Company Context: AirPure Innovations
+
 Problem Statement
 
 AirPure Innovations is a startup addressing the air quality crisis in India, where 14 of the world’s top 20 most polluted cities are located. Before committing to production and R&D of their air purifier product, the company needed to assess:
